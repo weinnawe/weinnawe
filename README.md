@@ -21,5 +21,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weinnawe@gmail.com)
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://usagif.com/wp-content/uploads/gif/baby-yoda-18.gif" />
+  <img align="center" alt="yoda" src="https://usagif.com/wp-content/uploads/gif/baby-yoda-18.gif" />
 </div><br/>
